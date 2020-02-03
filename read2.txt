@@ -1,0 +1,4 @@
+Terminals: g h k;
+NonTerminals: P B;
+Rules:
+B-g k P|h B|k B|h,P-a P|k,END

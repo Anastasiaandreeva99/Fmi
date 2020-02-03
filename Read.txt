@@ -1,0 +1,6 @@
+Terminals: a b c;
+NonTerminals: S A;
+Rules:
+S-c S|b A|a A|b,A-a A|c,END
+
+
